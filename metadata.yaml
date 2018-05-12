@@ -1,0 +1,47 @@
+_repo: A-Day-with-Keats_30451
+_version: 0.1.0
+alternative_title: Keats
+contributor:
+  contributor:
+    agent_name: Keats, John
+    birthdate: 1795
+    deathdate: 1821
+    gutenberg_agent_id: '935'
+    url: http://www.gutenberg.org/2009/agents/935
+    wikipedia: http://en.wikipedia.org/wiki/John_Keats
+  illustrator:
+    agent_name: Neatby, William James
+    alias: Neatby, W. J.
+    birthdate: 1860
+    deathdate: 1910
+    gutenberg_agent_id: '34617'
+    url: http://www.gutenberg.org/2009/agents/34617
+covers:
+- cover_type: archival
+  image_path: 30451-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Byron, May Clarissa Gillington
+    aliases:
+    - Clare, Maurice
+    - Gillington, M. C. (May Clarissa)
+    - Gillington, May Clarissa
+    deathdate: 1936
+    gutenberg_agent_id: '34616'
+    url: http://www.gutenberg.org/2009/agents/34616
+description: ''
+gutenberg_issued: '2009-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Keats, John, 1795-1821'
+- !lcsh 'English poetry -- 19th century'
+title: A Day with Keats
+url: http://www.gutenberg.org/ebooks/30451
